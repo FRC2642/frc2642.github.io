@@ -99,16 +99,16 @@ params:
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/FRC2642'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: 'https://facebook.com/'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: 'https://instagram.com/'
     twitter:
       enabled: true
-      url: '@nusserstudios'
+      url: 'https://twitter.com/'
     
 
 menu:
