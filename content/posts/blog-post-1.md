@@ -19,7 +19,7 @@ It gets worse. 80% of all STEM jobs are in computer science and engineering, and
 
 Here are just a few of our girls joining the fight for equal female representation in STEM!
 
-### Arianna Lee: 
+## Arianna Lee: 
 Arianna was one of 18 students selected nationally to become a SWENext High School Influencer. During her 24-hour takeover of the @swenext Instagram account, she created creative and engaging Instagram stories that highlighted the FIRST Robotics program by taking viewers to the NC FRC State Championships. This included video interviews with 4 FRC teams that promote women in STEM, including ALL GIRLS TEAMS!!! (G-Force Robotics and Girls on Fire). She also interviewed Dr. Robin Coger - ECU's current provost and senior vice chancellor for academic affairs - about her experiences as an engineer. She also included testimonials for teammates and hosted a Q&A. This helped put a national spotlight on our team, FIRST North Carolina, and the FRC program. Additionally, she created partnerships with two Girl Scout troops through this program. It taught girls the basics of robotic design, provided STEM activities, and even taught the basics of programming. Finally, she wrote 2022’s blog post regarding the outreach that Pitt County Robotics has done.
 
 ## Anisha Patel: 
