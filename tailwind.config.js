@@ -1,3 +1,5 @@
+// to rebuild: npx tailwind --input pitt-pirates/assets/css/main.css --output pitt-pirates/assets/css/style.css --watch
+
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 // tailwind.config.js
@@ -10,32 +12,32 @@ module.exports = {
         transparent: 'transparent',
         current: 'currentColor',
         'primary': {
-          DEFAULT: '#C2E5A2',
-          50: '#FFFFFF',
-          100: '#FFFFFF',
-          200: '#FFFFFF',
-          300: '#ECF7E2',
-          400: '#D7EEC2',
-          500: '#C2E5A2',
-          600: '#A5D976',
-          700: '#88CC4A',
-          800: '#6DAE31',
-          900: '#518224',
-          950: '#446C1E'
+          DEFAULT: '#B7E495',
+          50: '#B7E495',
+          100: '#B7E495',
+          200: '#B7E495',
+          300: '#B7E495',
+          400: '#B7E495',
+          500: '#B7E495',
+          600: '#9CDA6C',
+          700: '#80D043',
+          800: '#67B42D',
+          900: '#508B23',
+          950: '#44761E'
         },
         'secondary': {
-          DEFAULT: '#86BE52',
-          50: '#E3F0D7',
-          100: '#D9EBC9',
-          200: '#C4DFAB',
-          300: '#AFD48D',
-          400: '#9BC970',
-          500: '#86BE52',
-          600: '#6A9D3B',
-          700: '#4F742C',
-          800: '#334B1C',
-          900: '#17230D',
-          950: '#0A0E05'
+          DEFAULT: '#13FD52',
+          50: '#9CFEB6',
+          100: '#8DFEAB',
+          200: '#6EFE94',
+          300: '#50FD7E',
+          400: '#32FD68',
+          500: '#13FD52',
+          600: '#02D63B',
+          700: '#029E2B',
+          800: '#01671C',
+          900: '#002F0D',
+          950: '#001305'
         },
         'neutral': {
           DEFAULT: '#6B7280',
