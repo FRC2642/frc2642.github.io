@@ -1,4 +1,4 @@
-// to rebuild: npx tailwind --input pitt-pirates/assets/css/main.css --output pitt-pirates/assets/css/style.css --watch
+// to rebuild: npx tailwind --input assets/css/main.css --output assets/css/style.css --watch
 
 const defaultTheme = require('tailwindcss/defaultTheme')
 
