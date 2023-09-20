@@ -102,13 +102,13 @@ params:
       url: 'https://github.com/FRC2642'
     facebook:
       enabled: true
-      url: 'https://facebook.com/'
+      url: 'https://www.facebook.com/FIRSTPittPirates2642/'
     instagram:
       enabled: true
-      url: 'https://instagram.com/'
+      url: 'https://www.instagram.com/p/CZFkGiJOgTh/'
     twitter:
       enabled: true
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/pittpirates2642'
     
 
 menu:
