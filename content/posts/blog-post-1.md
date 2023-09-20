@@ -5,7 +5,7 @@ draft: false
 language: en
 featured_image: ../assets/images/posts/blog1img.jpg
 author: Caroline
-authorimage: ../assets/images/global/author.webp
+authorimage: ../assets/images/pages/site-logo.png
 categories: Blog
 tags: Blog
 ---

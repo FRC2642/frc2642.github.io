@@ -50,7 +50,8 @@ params:
   authorimage: ../assets/images/global/logo.png
   og_image: /images/tailbliss-cover.png
   moto: "FIRST Robotics Team 2642"
-  description: "We're a lean, green, STEM machine!"
+  subtitle: "We're a lean, green, STEM machine!"
+  description: "Home"
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
