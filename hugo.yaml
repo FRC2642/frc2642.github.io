@@ -49,8 +49,11 @@ params:
   author: Pitt Pirates
   authorimage: ../assets/images/global/logo.png
   og_image: /images/tailbliss-cover.png
-  moto: "FIRST Robotics Team 2642"
-  subtitle: "We're a lean, green, STEM machine!"
+  titlel1: "We're"
+  titlel2: "We're"
+  titlel3: "We're a "
+  # moto: "Pitt Pirates"
+  # subtitle: "FIRST Robotics Team 2642"
   description: "Home"
   disable_theme_toggle: false
   disable_stay_uptodate: false
