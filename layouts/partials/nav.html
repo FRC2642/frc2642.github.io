@@ -21,7 +21,7 @@
                 </svg>
             </button>
         </div>
-        <nav :class="{'flex': close, 'hidden': !close}"
+        <nav :class="{'flex': open, 'hidden': !open}"
              class="flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row">
             {{ range site.Menus.main }}
             {{ if (eq "complexdropdown" .Pre) }}
