@@ -1,5 +1,5 @@
 baseURL: 'https://frc2642.github.io/'
-title: Pitt Pirates
+title: Pitt Pirates 2642
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -51,7 +51,7 @@ params:
   og_image: /images/tailbliss-cover.png
   titlel1: "We're"
   titlel2: "We're"
-  titlel3: "We're a "
+  titlel3: "We make "
   # moto: "Pitt Pirates"
   # subtitle: "FIRST Robotics Team 2642"
   description: "Home"
