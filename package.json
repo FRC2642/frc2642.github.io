@@ -10,7 +10,8 @@
     "concurrently": "^8.2.1",
     "postcss": "^8.4.30",
     "postcss-cli": "^10.1.0",
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.3.3",
+    "tailwindcss-animate": "^1.0.7"
   },
   "scripts": {
     "start": "concurrently npm:watch:*",
@@ -41,5 +42,10 @@
   "bugs": {
     "url": "https://github.com/nusserstudios/tailbliss/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://github.com/nusserstudios/tailbliss",
+  "dependencies": {
+    "aos": "^3.0.0-beta.6",
+    "tailwindcss-animated": "^1.0.1",
+    "taos": "^1.0.5"
+  }
 }

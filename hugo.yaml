@@ -48,10 +48,7 @@ markup:
 params:
   author: Pitt Pirates
   authorimage: ../assets/images/global/logo.png
-  og_image: /images/tailbliss-cover.png
-  titlel1: "We're"
-  titlel2: "We're"
-  titlel3: "We make "
+  og_image: /images/logo.png
   # moto: "Pitt Pirates"
   # subtitle: "FIRST Robotics Team 2642"
   description: "Home"
@@ -129,7 +126,7 @@ menu:
       name: Categories
       weight: 30
     - identifier: dropdown
-      pre: complexdropdown
+      pre: dropdown
       name: Dropdown
       weight: 40
     - identifier: contact

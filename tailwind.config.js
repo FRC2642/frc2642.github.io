@@ -8,6 +8,21 @@ module.exports = {
   darkMode: 'class',
   theme: {
     extend: {
+      animation: {
+        text: 'text 5s ease infinite',
+      },
+      keyframes: {
+        text: {
+          '0%, 100%': {
+            'background-size': '200% 200%',
+            'background-position': 'left center',
+          },
+          '50%': {
+            'background-size': '200% 200%',
+            'background-position': 'right center',
+          },
+        },
+      },
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
@@ -101,5 +116,15 @@ module.exports = {
   variants: {
     typography: ["dark"],
   },
-  plugins: [require("@tailwindcss/typography")],
+  plugins: [require("@tailwindcss/typography"), require("tailwindcss-animated"), require('taos/plugin')],
+  safelist: [
+    '!duration-[0ms]',
+    '!delay-[0ms]',
+    'html.js :where([class*="taos:"]:not(.taos-init))'
+  ],
+  // content: {
+  //   relative: true,
+  //   transform: (content) => content.replace(/taos:/g, ''),
+  //   files: ['./layouts/*.{html,js}'],
+  // },
 };
