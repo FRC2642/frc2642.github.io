@@ -7,7 +7,7 @@
                     <h1 class="mb-2 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl xl:text-6xl dark:text-white pt-6">
                         <p class="py-3" data-aos="fade-right" data-aos-delay="400">We're<span class="font-light" data-aos-offset="300"> lean</span></p>
                         <p class="py-3" data-aos="fade-right" data-aos-delay="800">We're<span class="text-primary-600" data-aos-offset="300"> green</span></p>
-                        <p class="py-3" data-aos="fade-right" data-aos-delay="1200">We build <a href="robots"><span class="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent" data-aos="zoom-out" data-aos-delay="1600" data-aos-duration="2000">exceptional machines</span></a></p>
+                        <p class="py-3" data-aos="fade-right" data-aos-delay="1200">We build <a href="robots"><span class="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent" data-aos="zoom-out" data-aos-delay="1600" data-aos-duration="2000">extraordinary machines</span></a></p>
                     </h1>
                     <h2 class="pb-2 text-3xl font-light text-gray-800 dark:text-gray-300 md:text-4xl">
                         {{ .Site.Params.Moto }}
@@ -90,11 +90,11 @@
                         <rect width="404" height="392" fill="url(#837c3e70-6c3a-44e6-8854-cc48c737b659)"></rect>
                     </svg>
                 </div>
-                <div class="relative pl-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12 ">
+                <div class="relative w-full h-auto pl-4 pr-4 -mr-40 sm:mx-auto sm:max-w-3xl sm:px-0 lg:h-full lg:max-w-none lg:pl-12 ">
                     {{ $p2image := resources.Get .Site.Params.P2.Image }}
                     {{ with $p2image }}
                     {{ with .Resize (printf "%dx%d webp q90" .Width .Height) }}
-                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="w-full rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none object-fit: contain;" loading="lazy" />
+                    <img imgh src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="p2" class="object-scale-down rounded-lg shadow-xl lg:h-full lg:w-auto lg:max-w-none" loading="lazy" />
                     {{ end }}
                     {{ end }}
 
