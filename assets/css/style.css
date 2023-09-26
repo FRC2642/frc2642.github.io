@@ -2756,6 +2756,10 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
   max-height: 3rem;
 }
 
+.min-h-screen {
+  min-height: 100vh;
+}
+
 .w-0 {
   width: 0px;
 }
@@ -3269,6 +3273,16 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
   padding-bottom: 24rem;
 }
 
+.py-36 {
+  padding-top: 9rem;
+  padding-bottom: 9rem;
+}
+
+.py-56 {
+  padding-top: 14rem;
+  padding-bottom: 14rem;
+}
+
 .pb-12 {
   padding-bottom: 3rem;
 }
@@ -3323,6 +3337,14 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
 
 .text-center {
   text-align: center;
+}
+
+.align-middle {
+  vertical-align: middle;
+}
+
+.align-text-bottom {
+  vertical-align: text-bottom;
 }
 
 .text-2xl {
@@ -4747,6 +4769,11 @@ EmojiSymbols;
     font-size: 1.125rem;
     line-height: 1.75rem;
   }
+
+  .md\:text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -4955,5 +4982,15 @@ EmojiSymbols;
   .xl\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .xl\:text-8xl {
+    font-size: 6rem;
+    line-height: 1;
+  }
+
+  .xl\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
   }
 }
