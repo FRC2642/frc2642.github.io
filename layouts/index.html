@@ -45,10 +45,13 @@
                         {{ .Site.Params.P1.Heading }}
                     </h2>
                     <div class="mt-6 text-gray-900 dark:text-white">
+                        <h2 class="text-xl font-bold tracking-tight text-gray-900 dark:text-gray-50 sm:text-2xl">
+                            {{ .Site.Params.P1.Subtitle }}
+                        </h2>
                         <div class="mt-6 space-y-6 text-gray-900 dark:text-white">
                             {{ range .Site.Params.P1.Content }}
                             <p class="text-lg text-gray-900 dark:text-white">
-                                {{ .text }}
+                                {{ .text | markdownify}}
                             </p>
                             {{ end }}
                         </div>

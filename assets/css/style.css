@@ -2752,6 +2752,18 @@ html.js :where([class*="taos:"]:not(.taos-init)) {
   height: 100%;
 }
 
+.h-24 {
+  height: 6rem;
+}
+
+.h-48 {
+  height: 12rem;
+}
+
+.h-96 {
+  height: 24rem;
+}
+
 .max-h-12 {
   max-height: 3rem;
 }
@@ -4627,6 +4639,16 @@ EmojiSymbols;
   .sm\:text-xl {
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+  }
+
+  .sm\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 }
 
