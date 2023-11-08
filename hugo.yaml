@@ -113,34 +113,34 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: 
+      name: Contact Us
+      url: /contact/
       weight: 10
     - identifier: about
       name: About
       url: /about/
       weight: 20
-    - identifier: categories
+    - identifier: outreach
       pre: dropdown
-      name: Categories
+      name: Outreach
       weight: 30
-    - identifier: dropdown
-      pre: dropdown
-      name: Dropdown
-      weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
       weight: 50
-  categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: firstprograms
+      name: FIRST Programs
+      url: /firstprograms/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
+  outreach:
+    - identifier: womeninstem
+      name: Women in STEM
+      url: /womeninstem/
+      weight: 20
+    - identifier: steminthecommunity
+      name: STEM In the Community
+      url: /steminthecommunity/
       weight: 20
   dropdown:
     - identifier: appearance
