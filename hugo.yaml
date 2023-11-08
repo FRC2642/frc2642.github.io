@@ -56,16 +56,17 @@ params:
   disable_stay_uptodate: false
 
   p1:
+    heading: "Who we are"
+    image: "images/pages/our-mission.jpg"
+    subtitle: ""
+    content:
+      - text: "We are FRC team 2642, the Pitt Pirates. We are a FIRST Robotics Competition team composed of high school students from eastern North Carolina. We are where innovation meets excellence! As a dynamic robotics team deeply rooted in STEM, we're not just about building robots; we're sculptors of the future, passionate about pushing the boundaries of technology and knowledge. "
+  p2:
     heading: "Our mission"
     image: "images/pages/our-mission.jpg"
     subtitle: "Create. Educate. Inspire."
     content:
-      - text: "<i>Mens et manus</i> without the MIT workload. "
-  p2:
-    heading: "Our methods"
-    image: "images/pages/2022-23.jpg"
-    content:
-      - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur at purus non enim commodo tincidunt vel in nulla. Aenean pretium dolor non ultricies bibendum. Etiam quis blandit enim. Nunc condimentum ut lorem in faucibus. Phasellus varius ligula et commodo tristique. Nunc sodales nisl nec laoreet vehicula. Donec velit nibh, sollicitudin at nulla a, egestas dignissim eros. Sed lacinia hendrerit interdum. Vestibulum pellentesque sem venenatis nisl tempor accumsan sit amet tempus felis. Mauris leo diam, porttitor nec bibendum id, tempus ac nulla. Etiam congue ornare erat at convallis. Donec in nisi dapibus, mattis risus vel, imperdiet enim. Donec fermentum sit amet tortor nec tincidunt. Nam nec lectus tortor. Nunc sit amet laoreet orci, porta ornare massa. Phasellus eget lorem mi. Nam eleifend ultricies sapien, quis mollis leo bibendum at. Quisque viverra lorem sit amet magna aliquet, et dignissim arcu eleifend."
+      - text: "We educate by doing. At Pitt Pirates 2642, our journey is fueled by a love for STEM, and our mission extends far beyond the competition arena. We're committed to making a meaningful impact through outreach, inspiring the next generation of thinkers, dreamers, and doers. Join us on a voyage where curiosity knows no bounds, and the thrill of discovery is the wind in our sails."
   p3:
     heading: "Backed by our great sponsors"
     content:
