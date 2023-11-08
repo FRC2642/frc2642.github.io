@@ -60,7 +60,7 @@ params:
     image: "images/pages/our-mission.jpg"
     subtitle: ""
     content:
-      - text: "We are FRC team 2642, the Pitt Pirates. We are a FIRST Robotics Competition team composed of high school students from eastern North Carolina. We are where innovation meets excellence! As a dynamic robotics team deeply rooted in STEM, we're not just about building robots; we're sculptors of the future, passionate about pushing the boundaries of technology and knowledge. "
+      - text: "We are FRC team 2642, the Pitt Pirates, an eclectic FIRST Robotics Competition team made up of high school students from across eastern North Carolina. We are a dynamic robotics team deeply rooted in STEM. We're not just about building robots, we're sculptors of the future, passionate about pushing the boundaries of technology and knowledge. "
   p2:
     heading: "Our mission"
     image: "images/pages/our-mission.jpg"
