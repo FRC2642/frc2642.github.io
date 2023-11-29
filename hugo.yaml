@@ -85,7 +85,11 @@ params:
         image: "images/global/swe.jpg"
         alt: "SWE"
       - identifier: d
+        image: "images/global/lockheed.png"
+        alt: "Lockheed Martin"
       - identifier: e
+        image: "images/global/optimum.png"
+        alt: "Optimum Group"
       - identifier: f
   p4:
     heading: "From the blog"
