@@ -60,13 +60,13 @@ params:
     image: "images/pages/our-mission.jpg"
     subtitle: ""
     content:
-      - text: "We are FRC team 2642, the Pitt Pirates, an eclectic FIRST Robotics Competition team made up of high school students from across eastern North Carolina. We are a dynamic robotics team deeply rooted in STEM. We're not just about building robots, we're sculptors of the future, passionate about pushing the boundaries of technology and knowledge. "
+      - text: "We are FRC team 2642, the Pitt Pirates, a FIRST Robotics Competition team made up of high school students from across eastern North Carolina. We are a dynamic robotics team deeply rooted in STEM. We're not just about building robots, we're sculptors of the future, passionate about pushing the boundaries of technology and knowledge. "
   p2:
     heading: "Our mission"
     image: "images/pages/our-mission.jpg"
     subtitle: "Create. Educate. Inspire."
     content:
-      - text: "We educate by doing. At Pitt Pirates 2642, our journey is fueled by a love for STEM, and our mission extends far beyond the competition arena. We're committed to making a meaningful impact through outreach, inspiring the next generation of thinkers, dreamers, and doers. Join us on a voyage where curiosity knows no bounds, and the thrill of discovery is the wind in our sails."
+      - text: "We educate by doing. At Pitt Pirates 2642, our journey is fueled by a love for STEM, and our mission extends far beyond the arena. We're committed to making a meaningful impact through outreach, inspiring the next generation of thinkers, dreamers, and doers. Join us on a voyage where curiosity knows no bounds, and the thrill of discovery is the wind in our sails."
   p3:
     heading: "Backed by our great sponsors"
     content:
@@ -91,10 +91,12 @@ params:
         image: "images/global/optimum.png"
         alt: "Optimum Group"
       - identifier: f
+        image: "images/global/logo.png"
+        alt: "Pitt Pirates 2642"
   p4:
     heading: "From the blog"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Our talented writers"
   p5:
     heading: "Stay Up to Date"
     content:
