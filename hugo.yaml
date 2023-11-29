@@ -76,10 +76,14 @@ params:
         url: "#"
     logos:
       - identifier: a
-        image: "images/global/logo.png"
-        alt: "a"
+        image: "images/global/genehaas.png"
+        alt: "Gene Haas Foundation"
       - identifier: b
+        image: "images/global/apple.png"
+        alt: "Apple"
       - identifier: c
+        image: "images/global/swe.jpg"
+        alt: "SWE"
       - identifier: d
       - identifier: e
       - identifier: f
